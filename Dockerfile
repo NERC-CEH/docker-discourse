@@ -1,4 +1,4 @@
-FROM bitnami/discourse
+FROM bitnami/discourse:1.8.10-r0
 
 LABEL maintainer "joshua.foster@stfc.ac.uk"
 
